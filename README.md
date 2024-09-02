@@ -1,5 +1,9 @@
 -# 💫 About Me:
+
 Passionate Web and Mobile App Developer 
+- I'm from Nepal and currently pursuning B.TECH CSE in Bharath University, Chennai, India
+- I'm currently working on Ecommerce website
+- I'm currently learnig MERN
 
 
 ## 🌐 Socials:
