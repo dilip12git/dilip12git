@@ -1,4 +1,4 @@
--# 💫 About Me:
+# 💫 About Me:
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
 - I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai, India
