@@ -1,8 +1,8 @@
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
-- I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai, India
+- I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai,Tamil Nadu, India
 - I'm currently working on Ecommerce website
-- I'm currently learnig MERN
+- I'm currently learnig MERN Stack
 
 
 ## 🌐 Socials:
