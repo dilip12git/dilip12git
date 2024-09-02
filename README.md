@@ -27,9 +27,3 @@ Passionate Web and Mobile App Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=dilip12git&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 👋 Hi, I’m @dilip12g
-
-<!---
-dilip12git/dilip12git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
