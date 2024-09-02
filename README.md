@@ -1,5 +1,5 @@
 -# 💫 About Me:
-I'm currently working on eCommerce website 
+Passionate Web and Mobile App Developer 
 
 
 ## 🌐 Socials:
