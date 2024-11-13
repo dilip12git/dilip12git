@@ -1,4 +1,4 @@
-![Dilip kumar (1)](https://github.com/user-attachments/assets/800c5073-dfa9-4886-b853-2eb4a6b563b3)
+![image](https://github.com/user-attachments/assets/ac133209-0a8e-478b-b64d-cefa975648bb)
 
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
