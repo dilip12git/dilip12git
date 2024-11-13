@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/bd90a1f5-439c-439f-8a3f-5bb75f4d51c3" width="100%" style="border-radius:10px;" alt="Dilip Kumar">
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
 - I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai,Tamil Nadu, India
