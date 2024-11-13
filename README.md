@@ -1,3 +1,5 @@
+![Dilip kumar (1)](https://github.com/user-attachments/assets/bd90a1f5-439c-439f-8a3f-5bb75f4d51c3)
+
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
 - I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai,Tamil Nadu, India
