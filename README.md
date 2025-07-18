@@ -3,7 +3,7 @@
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
 - I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai,Tamil Nadu, India
-- I'm currently working on Real-time chat web app.
+- I'm currently working on Social Media App.
 - I'm currently learnig MERN Stack
 
 
