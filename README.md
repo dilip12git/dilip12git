@@ -1,10 +1,8 @@
-![WhatsApp Image 2025-10-04 at 22 57 17](https://github.com/user-attachments/assets/94f6ce2e-d497-4e14-a30a-c668e4db7677)
-
 
 ## Hi, I'm Dilip Kumar Teli
 Passionate Web and Mobile App Developer 
 - I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai,Tamil Nadu, India
-- I'm currently working on Social Media App.
+- I'm currently working on Freelancing Web application.
 - I'm currently learnig MERN Stack
 
 
