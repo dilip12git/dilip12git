@@ -3,7 +3,7 @@
 Passionate Web and Mobile App Developer 
 - I'm from Nepal and currently pursuing B.TECH CSE in Bharath University, Chennai,Tamil Nadu, India
 - I'm currently working on Freelancing Web application.
-- I'm currently learnig MERN Stack
+- I'm currently learnig Agentic Ai
 
 
 ## 🌐 Socials:
